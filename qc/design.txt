@@ -1,0 +1,20 @@
+
+a running ball robot that can fly and/or do somersault jumps, a pod that hangs from the ceiling, and a small critter that can run and do a jumping attack
+
+// progs/ballmech.mdl
+$frame base frameuse1
+$frame walk1 walk2 walk3 walk4 walk5 walk6
+$frame pain1 pain2 pain3 pain4 pain5
+$frame fly1 fly2 fly3 fly4 fly5 fly6 fly7 fly8 fly9 fly10 fly11
+$frame twirl1 twirl2 twirl3 twirl4 twirl5 twirl6 twirl7 twirl8
+
+// progs/clinger.mdl
+$frame base frameuse1
+$frame shake1 shake2 shake3 shake4 shake5 shake6 shake7 shake8
+$frame fall1
+
+// progs/young.mdl
+$frame base frameuse1
+$frame run1 run2 run3 run4 run5 run6 run7 run8
+$frame runatt1 runatt2 runatt3 runatt4 runatt5 runatt6 runatt7 runatt8
+
