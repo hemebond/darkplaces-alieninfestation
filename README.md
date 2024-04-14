@@ -1,5 +1,7 @@
 # Alien Infestation
 
+![alt text](/home/james/Workspace/darkplaces-alieninfestation/screenshot.jpg)
+
 Alien Infestation, a 48 hour speedmod made on 2006-04-12 through 2006-04-14 by
 LadyHavoc for the Quake Speed Modding event at http://speedqc.errorabove.com/
 
